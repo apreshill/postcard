@@ -10,5 +10,5 @@ navbar:
     - text: "About"
       href: about.html
     - text: "About2"
-      href: trestles/trestles.html
+      href: jolla-about/jolla-about.html
 output: distill::distill_article
