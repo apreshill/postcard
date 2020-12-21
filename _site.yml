@@ -3,6 +3,7 @@ title: "My Blog"
 description: |
   My Blog
 output_dir: "docs"
+theme: custom.css
 navbar:
   right:
     - text: "Home"
